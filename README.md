@@ -13,7 +13,7 @@ I'm a **ML Engineer & Architect** with a deep focus on enhancing Legal AI system
 - 🌱 **Currently focused on:** Legal AI & Cybersecurity.
 - 🔥 **Working on:** Innovative projects in NLP, Generative AI, and Education.
 - ✍️ **Writing about:** Algorithms, Data Structures, and Machine Learning at [KHALILLI.AI](https://khalilli.ai/).
-- 📚 **Founder of:** [LINEARLY.AI](https://linearly.ai/), an open-source platform sharing comprehensive Linear Algebra lectures.
+- 📚 **Founder of:** [LINEARLY.AI](https://linearly.ai/), platform sharing comprehensive Linear Algebra lectures.
 - 🎨 **Hobbies:** Drawing, Reading, and Cooking.
 
 ---
