@@ -3,14 +3,16 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alikhalilli/)](https://www.linkedin.com/in/alikhalilli/)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white&link=https://github.com/alikhalilli)](https://github.com/alikhalilli)
 [![KHALILLI.AI](https://img.shields.io/badge/-KHALILLI.AI-009e22?style=flat&logo=web&logoColor=white&link=https://khalilli.ai/)](https://khalilli.ai/)
+[![LINEARLY.AI](https://img.shields.io/badge/-LINEARLY.AI-FF4500?style=flat&logo=web&logoColor=white&link=https://linearly.ai/)](https://linearly.ai/)
 [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white&link=mailto:hello@khalilli.ai)](mailto:hello@khalilli.ai)
 
-I'm a passionate Data Scientist with a deep focus on enhancing Legal AI systems and cybersecurity through AI. My work revolves around cutting-edge projects in NLP, Generative AI, and Education. 
+I'm a passionate Data Scientist with a deep focus on enhancing Legal AI systems and cybersecurity through AI. My work revolves around cutting-edge projects in NLP, Generative AI, and Education.
 
 - 🌱 Currently focused on **Legal AI** and **Cybersecurity**.
 - 🔥 Working on innovative projects in **NLP**, **Generative AI**, and **Education**.
 - ✍️ Writing about **algorithms**, **data structures**, and **machine learning** at [KHALILLI.AI](https://khalilli.ai/).
-- 🎨 In my free time, I enjoy drawing, reading and cooking.
+- 📚 Founder and content developer of [LINEARLY.AI](https://linearly.ai/): An open-source platform sharing comprehensive Linear Algebra lectures.
+- 🎨 In my free time, I enjoy drawing, reading, and cooking.
 
 ### Technologies & Tools
 
