@@ -6,17 +6,21 @@
 [![LINEARLY.AI](https://img.shields.io/badge/-LINEARLY.AI-FF4500?style=flat&logo=web&logoColor=white&link=https://linearly.ai/)](https://linearly.ai/)
 [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white&link=mailto:hello@khalilli.ai)](mailto:hello@khalilli.ai)
 
-I'm a ML Engineer & Architect with a deep focus on enhancing Legal AI systems and cybersecurity through AI. My work revolves around cutting-edge projects in NLP, Generative AI, and Education.
+---
 
-- 🌱 Currently focused on **Legal AI** and **Cybersecurity**.
-- 🔥 Working on innovative projects in **NLP**, **Generative AI**, and **Education**.
-- ✍️ Writing about **algorithms**, **data structures**, and **machine learning** at [KHALILLI.AI](https://khalilli.ai/).
-- 📚 Founder and content developer of [LINEARLY.AI](https://linearly.ai/).
-- 🎨 In my free time, I enjoy drawing, reading, and cooking.
+I'm a **ML Engineer & Architect** with a deep focus on enhancing Legal AI systems and cybersecurity through AI. My work revolves around cutting-edge projects in NLP, Generative AI, and Education.
 
-### Technologies & Tools
+- 🌱 **Currently focused on:** Legal AI & Cybersecurity.
+- 🔥 **Working on:** Innovative projects in NLP, Generative AI, and Education.
+- ✍️ **Writing about:** Algorithms, Data Structures, and Machine Learning at [KHALILLI.AI](https://khalilli.ai/).
+- 📚 **Founder of:** [LINEARLY.AI](https://linearly.ai/), an open-source platform sharing comprehensive Linear Algebra lectures.
+- 🎨 **Hobbies:** Drawing, Reading, and Cooking.
 
-- **Programming Languages**:
+---
+
+### 🚀 Technologies & Tools
+
+- **💻 Programming Languages**:
   ![Python](http://img.shields.io/badge/-Python-eee?style=flat-square&logo=python&logoColor=F7BD2F)
   ![Java](https://img.shields.io/badge/-Java-eee?style=flat-square&logo=java&logoColor=007396)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-eee?style=flat-square&logo=javascript&logoColor=DD9C25)
@@ -25,7 +29,7 @@ I'm a ML Engineer & Architect with a deep focus on enhancing Legal AI systems an
   ![SQL](http://img.shields.io/badge/-SQL-eee?style=flat-square&logo=postgresql&logoColor=336791)
   ![PLSQL](http://img.shields.io/badge/-PLSQL-eee?style=flat-square&logo=oracle&logoColor=F80000)
 
-- **Machine Learning & AI**:
+- **🤖 Machine Learning & AI**:
   ![TensorFlow](http://img.shields.io/badge/-TensorFlow-eee?style=flat-square&logo=tensorflow&logoColor=FF6F00)
   ![PyTorch](http://img.shields.io/badge/-PyTorch-eee?style=flat-square&logo=pytorch&logoColor=EE4C2C)
   ![Hugging Face](https://img.shields.io/badge/-🤗%20%20Hugging%20Face%20API-eee?style=flat-square&logo=🤗&logoColor=FFD21E)
@@ -35,12 +39,12 @@ I'm a ML Engineer & Architect with a deep focus on enhancing Legal AI systems an
   ![Spacy](http://img.shields.io/badge/-Spacy-eee?style=flat-square&logo=spacy&logoColor=09A3D5)
   ![NLTK](http://img.shields.io/badge/-NLTK-eee?style=flat-square&logo=nltk&logoColor=000000)
 
-- **Cloud & DevOps**:
+- **☁️ Cloud & DevOps**:
   ![Google Cloud Platform](https://img.shields.io/badge/-GCP-eee?style=flat-square&logo=google-cloud&logoColor=4285F4)
   ![Docker](https://img.shields.io/badge/-Docker-eee?style=flat-square&logo=docker&logoColor=2496ed)
   ![CI/CD](http://img.shields.io/badge/-CI/CD-eee?style=flat-square&logo=gitlab&logoColor=FC6D26)
 
-- **Web Development & APIs**:
+- **🌐 Web Development & APIs**:
   ![FastAPI](https://img.shields.io/badge/-FastAPI-eee?style=flat-square&logo=fastapi&logoColor=009688)
   ![WebSocket](http://img.shields.io/badge/-WebSocket-eee?style=flat-square&logo=websocket&logoColor=000000)
   ![HTTP2](http://img.shields.io/badge/-HTTP2-eee?style=flat-square&logo=http2&logoColor=005500)
@@ -48,7 +52,7 @@ I'm a ML Engineer & Architect with a deep focus on enhancing Legal AI systems an
   ![OAuth2.0](http://img.shields.io/badge/-OAuth2.0-eee?style=flat-square&logo=oauth&logoColor=000000)
   ![OIDC](http://img.shields.io/badge/-OIDC-eee?style=flat-square&logo=oidc&logoColor=FF9900)
 
-- **Security**:
+- **🔒 Security**:
   ![Firewalls](http://img.shields.io/badge/-Firewalls-eee?style=flat-square&logo=firewalls&logoColor=FF0000)
   ![TCP/IP](http://img.shields.io/badge/-TCP/IP-eee?style=flat-square&logo=tcpip&logoColor=007396)
   ![Unix](http://img.shields.io/badge/-Unix-eee?style=flat-square&logo=unix&logoColor=000000)
@@ -58,12 +62,12 @@ I'm a ML Engineer & Architect with a deep focus on enhancing Legal AI systems an
   ![TLS](http://img.shields.io/badge/-TLS-eee?style=flat-square&logo=tls&logoColor=005500)
   ![SNI](http://img.shields.io/badge/-SNI-eee?style=flat-square&logo=sni&logoColor=800080)
 
-- **Data & Databases**:
+- **💾 Data & Databases**:
   ![NoSQL](http://img.shields.io/badge/-NoSQL-eee?style=flat-square&logo=nosql&logoColor=4DB33D)
   ![SQL](http://img.shields.io/badge/-SQL-eee?style=flat-square&logo=sql&logoColor=336791)
   ![Faiss](http://img.shields.io/badge/-Faiss-eee?style=flat-square&logo=faiss&logoColor=0057A7)
 
-- **Software Development**:
+- **🛠 Software Development**:
   ![Git](http://img.shields.io/badge/-Git-eee?style=flat-square&logo=git&logoColor=F05032)
   ![Shell Scripting](http://img.shields.io/badge/-Shell%20Scripting-eee?style=flat-square&logo=gnu-bash&logoColor=663399)
   ![AsyncIO](http://img.shields.io/badge/-AsyncIO-eee?style=flat-square&logo=python&logoColor=FFD21E)
@@ -71,11 +75,13 @@ I'm a ML Engineer & Architect with a deep focus on enhancing Legal AI systems an
   ![Playwright](http://img.shields.io/badge/-Playwright-eee?style=flat-square&logo=playwright&logoColor=8B0000)
   ![Distributed Systems](http://img.shields.io/badge/-Distributed%20Systems-eee?style=flat-square&logo=distributed-systems&logoColor=333333)
 
-- **Languages**:
+- **🗣 Languages**:
   ![English](http://img.shields.io/badge/-English-eee?style=flat-square&logo=language&logoColor=000000)
   ![Azerbaijani](http://img.shields.io/badge/-Azerbaijani-eee?style=flat-square&logo=language&logoColor=007A00)
   ![Turkish](http://img.shields.io/badge/-Turkish-eee?style=flat-square&logo=language&logoColor=FF0000)
   ![Russian](http://img.shields.io/badge/-Russian-eee?style=flat-square&logo=language&logoColor=000080)
+
+---
 
 For more details about my work and projects, please visit [khalilli.ai](https://khalilli.ai/).
 
