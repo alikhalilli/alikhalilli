@@ -7,7 +7,7 @@
 
 I'm a passionate Data Scientist with a deep focus on enhancing Legal AI systems and cybersecurity through AI. My work revolves around cutting-edge projects in NLP, Generative AI, and Education. 
 
-- 🌱 Currently focused on **Legal AI systems** and **Cybersecurity**.
+- 🌱 Currently focused on **Legal AI** and **Cybersecurity**.
 - 🔥 Working on innovative projects in **NLP**, **Generative AI**, and **Education**.
 - ✍️ Writing about **algorithms**, **data structures**, and **machine learning** at [KHALILLI.AI](https://khalilli.ai/).
 - 🎨 In my free time, I enjoy [drawing](https://photos.app.goo.gl/9OVEkdTjmtRPg7vC3), [reading](https://dinhanhthi.com/reading/), and [cooking](https://goo.gl/photos/yQXdQws1LLS16x5v5).
