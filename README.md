@@ -9,6 +9,6 @@ Older work:
 
 - [aiodiameter](https://github.com/alikhalilli/aiodiameter): a pure-Python Diameter protocol stack (RFC 6733), written against a live telecom charging system
 - [deepsense](https://github.com/alikhalilli/deepsense): drug discovery with graph and convolutional networks
-- [learn-cuda](https://github.com/alikhalilli/learn-cuda): CUDA notes and kernels
+- [WebAssemblyCompiler](https://github.com/alikhalilli/WebAssemblyCompiler): a WebAssembly compiler in Python, built on LLVM
 
 [khalilli.ai](https://khalilli.ai)
