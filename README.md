@@ -7,6 +7,7 @@ I write at [circuit](https://circuit.khalilli.ai) about the mathematics inside n
 
 Older work:
 
+- [aioraft](https://github.com/alikhalilli/aioraft): the Raft consensus algorithm on asyncio, implemented from the paper
 - [aiodiameter](https://github.com/alikhalilli/aiodiameter): a pure-Python Diameter protocol stack (RFC 6733), written against a live telecom charging system
 - [deepsense](https://github.com/alikhalilli/deepsense): drug discovery with graph and convolutional networks
 - [WebAssemblyCompiler](https://github.com/alikhalilli/WebAssemblyCompiler): a WebAssembly compiler in Python, built on LLVM
