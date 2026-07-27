@@ -5,11 +5,11 @@ We build machine intelligence whose answers are made to be checked, not believed
 
 I write at [circuit](https://circuit.khalilli.ai) about the mathematics inside neural networks, starting with a six-part series on superposition. The lab writes too: [firm ground](https://deterministiclabs.ai/writing).
 
-Older work:
+Open source:
 
-- [aioraft](https://github.com/alikhalilli/aioraft): the Raft consensus algorithm on asyncio, implemented from the paper
-- [aiodiameter](https://github.com/alikhalilli/aiodiameter): a pure-Python Diameter protocol stack (RFC 6733), written against a live telecom charging system
 - [deepsense](https://github.com/alikhalilli/deepsense): drug discovery with graph and convolutional networks
 - [WebAssemblyCompiler](https://github.com/alikhalilli/WebAssemblyCompiler): a WebAssembly compiler in Python, built on LLVM
+- [aioraft](https://github.com/alikhalilli/aioraft): the Raft consensus algorithm on asyncio, implemented from the paper
+- [aiodiameter](https://github.com/alikhalilli/aiodiameter): a pure-Python Diameter protocol stack (RFC 6733), written against a live telecom charging system
 
 [khalilli.ai](https://khalilli.ai)
