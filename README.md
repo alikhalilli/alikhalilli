@@ -7,6 +7,7 @@ I write at [circuit](https://circuit.khalilli.ai) about the mathematics inside n
 
 Open source:
 
+- [linearly](https://github.com/alikhalilli/linearly): a free, visual-first linear algebra course for people building AI, following MIT 18.06
 - [deepsense](https://github.com/alikhalilli/deepsense): drug discovery with graph and convolutional networks
 - [wabbitc](https://github.com/alikhalilli/wabbitc): a compiler with two backends, LLVM and WebAssembly encoded from the core spec
 - [aioraft](https://github.com/alikhalilli/aioraft): the Raft consensus algorithm on asyncio, implemented from the paper
